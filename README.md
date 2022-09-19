@@ -1,5 +1,5 @@
 # Sobre mim
-- 👀 Meu nome é @SabrinaRichter1B
+- 👀 Meu nome é **@SabrinaRichter1B**
 - 🌱 Meu email de contato é sabrina.richter@escola.pr.gov.br
 - 💞️ Estou interessado em aprender a programar novas linguagens
 - 📫 Estou aprendendo recentemente a programar JovaScript e Scratch
