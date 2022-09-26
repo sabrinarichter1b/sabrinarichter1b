@@ -2,7 +2,7 @@
 - 👀 Meu nome é **@SabrinaRichter1B**
 - 🌱 Meu email de contato é sabrina.richter@escola.pr.gov.br
 - 💞️ Estou interessado em aprender a programar novas linguagens
-- 📫 Estou aprendendo recentemente a programar JovaScript e Scratch
+- 📫 Estou aprendendo recentemente a programar JavaScript e Scratch
 
 <!---
 sabrinarichter1b/sabrinarichter1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
